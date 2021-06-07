@@ -1,14 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,700;1,100;1,400;1,700&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <title>Task List</title>
 </head>
+
 <body>
-    
+    <main class="card">
+        <div id="add-task">
+            <h1>Task List</h1>
+            <form action="" id="task-form">
+                <div class="input">
+                    <label class="sr-only" for="task">New Task</label>
+                    <input placeholder="New Task" type="text" name="task" id="task">
+                </div>
+                <input type="submit" value="Add Task" class="button primary-button">
+            </form>
+        </div>
+        <div id="list-task">
+            <h2>Tasks</h2>
+            <div class="input">
+                <label class="sr-only" for="filter">Filter Tasks</label>
+                <input placeholder="Filter Tasks" type="text" name="filter" id="filter">
+            </div>
+            <ul class="collection"></ul>
+            <a href="#" class="clear-tasks button dark-button">Clear Tasks</a>
+        </div>
+    </main>
+    <script src="https://kit.fontawesome.com/bf67364401.js" crossorigin="anonymous"></script>
     <script src="app.js"></script>
 </body>
+
 </html>
