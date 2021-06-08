@@ -77,6 +77,7 @@ h2 {
 /* CARD */
 
 .card {
+    
     margin: 4rem auto;
     width: min(700px, 90vw);
     background-color: white;
