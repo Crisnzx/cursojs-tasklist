@@ -72,6 +72,7 @@ function clearTasks(e) {
     }
     
     // Local Storage
+
     localStorage.clear();
 }
 
