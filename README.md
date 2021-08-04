@@ -9,7 +9,7 @@ Esse projeto consiste em uma lista de atividades que serão adicionadas pelo usu
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50">](https://www.javascript.com/)
 
 ## Link da aplicação
-> <a href="crisnzx.github.io/cursojs-tasklist/" target="_blank" >Task List</a>
+> <a href="https://crisnzx.github.io/cursojs-tasklist/" target="_blank" >Task List</a>
 
 ## Como usar
 
