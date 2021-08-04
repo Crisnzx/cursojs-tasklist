@@ -13,11 +13,10 @@ Esse projeto consiste em uma lista de atividades que serão adicionadas pelo usu
 
 ## Como usar
 
-- Adicione a descrição da sua atividade e clique em "New Task"
-- Adicione quantas atividades você quiser
+- Adicione a descrição da sua atividade e clique em "New Task" e adicione quantas atividades você quiser
 - Digite algo para filtrar as atividades de acordo com o que foi digitado
-- Clique no ícone X ao lado de alguma atividade para removê-la
-- Clique em "Clear Tasks para remover todas as atividades de uma só vez
+- Clique no botão X ao lado de alguma atividade para removê-la
+- Clique em "Clear Tasks" para remover todas as atividades de uma só vez
 
 ## Exemplo de uso
 
