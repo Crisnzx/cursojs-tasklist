@@ -9,14 +9,15 @@ Esse projeto consiste em uma lista de atividades que serão adicionadas pelo usu
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50">](https://www.javascript.com/)
 
 ## Link da aplicação
-> <a href="https://crisnzx.github.io/cursojs-bookstore/" target="_blank" >Book Store</a>
+> <a href="https://crisnzx.github.io/cursojs-tasklist/" target="_blank" >Task List</a>
 
 ## Como usar
 
-- Adicione as informações do seu livro e clique em "Add Book" e adicione quantos livros você quiser
-- Digite algo no input no canto inferior direito para filtrar os livros pelo título, autor ou ISBN
-- Clique no ícone ao lado de algum livro para removê-lo
+- Adicione a descrição da sua atividade e clique em "New Task" e adicione quantas atividades você quiser
+- Digite algo para filtrar as atividades de acordo com o que foi digitado
+- Clique no botão X ao lado de alguma atividade para removê-la
+- Clique em "Clear Tasks" para remover todas as atividades de uma só vez
 
 ## Exemplo de uso
 
-<img src="https://i.imgur.com/6BPBccN.png" alt="Print da aplicação" >
+<img src="https://i.imgur.com/BSTFxhP.png" alt="Print da aplicação" >
